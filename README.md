@@ -1,0 +1,1 @@
+# Automated-Detection-of-Silver-Lining-Defects-in-Gold-Thread-Spindles-Using-YOLOv8
